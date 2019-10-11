@@ -1,12 +1,13 @@
 # Testy
 
-[![ci](https://img.shields.io/travis/ngarbezza/testy.svg)](https://travis-ci.org/ngarbezza/testy)
-![vulnerabilities](https://img.shields.io/snyk/vulnerabilities/npm/@pmoo/testy.svg)
-![dependencies](https://img.shields.io/david/ngarbezza/testy.svg)
+[![CI](https://img.shields.io/travis/ngarbezza/testy.svg)](https://travis-ci.org/ngarbezza/testy)
 [![Maintainability](https://api.codeclimate.com/v1/badges/6b6e4d071471379f31e7/maintainability)](https://codeclimate.com/github/ngarbezza/testy/maintainability)
+![activity](https://img.shields.io/github/commit-activity/w/ngarbezza/testy.svg)
+[![NPM Version](http://img.shields.io/npm/v/@pmoo/testy.svg?style=flat)](https://npmjs.org/package/@pmoo/testy "View this project on npm")
+![vulnerabilities](https://img.shields.io/snyk/vulnerabilities/npm/@pmoo/testy.svg)
+[![Dependencies](http://img.shields.io/david/ngarbezza/testy.svg?style=flat)](https://david-dm.org/rstacruz/ngarbezza/testy)
 ![package-size](https://img.shields.io/bundlephobia/min/@pmoo/testy.svg)
 ![downloads](https://img.shields.io/npm/dt/@pmoo/testy.svg)
-![activity](https://img.shields.io/github/commit-activity/w/ngarbezza/testy.svg)
 ![release-date](https://img.shields.io/github/release-date/ngarbezza/testy.svg)
 
 A very simple JS testing library, for educational purposes. Live at npm at [@pmoo/testy](https://www.npmjs.com/package/@pmoo/testy).
