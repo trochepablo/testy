@@ -17,7 +17,7 @@ suite('collection assertions', () => {
   test('includes does not pass if the actual object is not an array', () => {
     asserter.that([]).includes('hey');
     
-    expectFailureDueTo("Expected [] to include hey");
+    expectFailureDueTo('Expected [] to include hey');
   });
   
   test('doesNotInclude fails if the object is in the array', () => {
@@ -101,7 +101,7 @@ suite('collection assertions', () => {
   test('isNotEmpty does not pass if the array is empty', () => {
     asserter.that([]).isNotEmpty();
     
-    expectFailureDueTo("Expected [] to be not empty");
+    expectFailureDueTo('Expected [] to be not empty');
   });
   
   test('isNotEmpty passes with a string with content', () => {
